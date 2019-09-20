@@ -1,0 +1,33 @@
+.SeccionEmpieza{
+  background:#D10C48;
+  padding: 20px;
+}
+.Empieza_Titulo{
+  font-size: 55px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color:#ffff;
+  font-family:Source Sans Pro;
+  font-weight: bold;
+  
+}
+.Empieza_Descripcion{
+  font-size:30px;
+}
+.Empieza_items{
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  padding: 20px;
+}
+.Tarjeta__Color{
+  background: transparent;
+}
+.boton{
+  background:#ffff;
+  color: #D10C48;
+  align-content: center;
+
+}
+

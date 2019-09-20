@@ -1,0 +1,57 @@
+.Seccion{
+  padding-top:100px;
+  text-align: center;
+
+}
+.Seccion_Titulo{
+  font-size: 60px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-weight: bold ;
+  color:#43425D;
+  font-family: Source Sans Pro;
+  
+}
+.Seccion_TarjetaColor{
+  background: transparent;
+  border-color: transparent;
+}
+.Seccion_Descripcion{
+  font-size:30px;
+  font-family:Source Sans Pro;
+  color: #43425D;
+  font-weight: bold;
+}
+.Seccion_texto{
+  font-size:15px;
+  text-align: center;
+  font-family:Source Sans Pro;
+  color: #43425D;
+  
+}
+.Seccion_items{
+  padding: 30px;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+}
+.Seccion__botones{
+  margin-top: 40px;
+  margin-bottom: 20px;
+  min-width: 100px;
+  margin: 10px;
+  font-size: 20px;
+}
+.Seccion__botones2{
+  margin-top: 40px;
+  margin-bottom: 20px;
+  min-width: 200px;
+  min-height: 40px;
+  margin: 10px;
+  background: #3B86FF;
+  font-weight: bold;
+  font-size: 20px;
+  border-color: #3B86FF;
+}
+

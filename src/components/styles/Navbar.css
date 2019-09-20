@@ -1,0 +1,34 @@
+.Navbar {
+  padding: 0.5rem 0;
+  background-color: #1C3643;
+}
+
+.Navbar__brand {
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+}
+
+.Navbar__brand:hover {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.Navbar__brand-logo {
+  margin-right: 0.5rem;
+  height: 40px;
+  width: 200px;
+}
+.Navbar__textB{
+  font-family: Source Sans Pro;
+  font-size: 20px;
+  width: 170px;
+  margin-right: 10px;
+  font-weight: bold;
+}
+.Navbar__textM{
+  font-family: Source Sans Pro;
+  font-size: 20px;
+  margin-right: 25px;
+  font-weight: bold;
+}

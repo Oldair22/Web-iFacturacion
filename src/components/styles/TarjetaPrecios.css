@@ -1,0 +1,66 @@
+.Precio{
+    background:black;
+    padding: 20px;
+  }
+  
+  .Tarjeta__imagen {
+    height:100px;
+    width: 100px;
+  
+  }
+ 
+  .Precio_items{
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+  }
+  .Precio__TituloCabecera{
+    font-family: Source Sans Pro;
+    font-size: 35px; 
+    text-align: center;
+    color: #55b761;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+  .Precio__Precio{
+    font-family:Source Sans Pro;
+    font-size: 84px;
+    text-align: center;
+    font-weight: bold;
+  }
+  .Precio__Descripcion{
+
+    font-family:Source Sans Pro;
+    font-size: 14px;
+  }
+  .Precio__Footer{
+    font-family:Source Sans Pro;
+    font-size: 20px;
+    text-align: center;
+    background: transparent;
+  }
+  .Precio__span{
+    display: inline-block;
+    font-size: 19px;
+    position: relative;
+    left: -5px;
+    top: -16px;
+    font-weight: 400;
+  }
+  .Precio__botones{
+  
+      margin-top: 40px;
+      margin-bottom: 20px;
+      min-width: 200px;
+
+  }
+  .Precio__General{
+    font-family: Source Sans Pro;
+    font-size: 50px;
+    margin: 60px 0 40px;
+    font-weight: bold;
+    text-align: center;
+    color: #43425D;
+  }
